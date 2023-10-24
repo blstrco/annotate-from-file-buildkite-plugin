@@ -6,6 +6,10 @@ metadata:
   annotations:
     github.com/project-slug: https://github.com/blstrco/annotate-from-file-buildkite-plugin
     backstage.io/techdocs-ref: dir:.
+    linktr.ee/criticality: Low
+    linktr.ee/deployable: No
+    linktr.ee/personal-data: No
+    linktr.ee/visibility: Internal
 spec:
   type: Component
   system: ci-cd
